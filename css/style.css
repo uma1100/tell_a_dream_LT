@@ -89,14 +89,14 @@ section h2 span {
 	padding-bottom: 50px;
 }
 
-#sec03 .inner, #sec04 .inner{
+#sec03 .inner, #sec04 .inner,#sec01 .inner,#sec02 .inner{
 	border-bottom: 1px solid #a0a0a0;
 }
 
 .innerS{
 	width: 60%;
 	margin: 0 auto;
-	padding-bottom: 80px;
+	padding-bottom: 0px;
 }
 
 
@@ -158,7 +158,7 @@ section h2 span {
 .article{
 	clear: both;
 	overflow: hidden;
-	padding-bottom: 50px;
+	padding-bottom: 0px;
 }
 
 .article img{
