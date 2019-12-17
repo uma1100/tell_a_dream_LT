@@ -41,6 +41,9 @@ a:active, a:focus,input:active, input:focus{outline:0;}
 	font-family: 'Modern Antiqua', 'Noto Sans JP',serif;
 }
 
+#mainImg {
+	text-align: center;
+}
 
 /* フッター
 ------------------------------------------------------------*/
