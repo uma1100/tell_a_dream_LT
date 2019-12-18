@@ -89,7 +89,7 @@ section h2 span {
 	padding-bottom: 50px;
 }
 
-#sec03 .inner, #sec04 .inner,#sec01 .inner,#sec02 .inner{
+#sec03 .inner, #sec04 .inner,#sec01 .inner,#sec02 .inner,#sec06 .inner{
 	border-bottom: 1px solid #a0a0a0;
 }
 
@@ -99,6 +99,13 @@ section h2 span {
 	padding-bottom: 0px;
 }
 
+.profile{
+	padding-left: 15px;
+}
+.article-center{
+	text-align: center;
+	padding-bottom: 20px;
+}
 
 /* SEC02 Gallery
 ------------------------------------------------------------*/
@@ -266,6 +273,13 @@ section h2 span {
 	.col4 li{
 		display: inline-block;
 		width: 18%;
+		padding: 0 3%;
+		vertical-align: top;
+		text-align: left;
+	}
+	.col4 .menbers{
+		display: inline-block;
+		width: 250px;
 		padding: 0 3%;
 		vertical-align: top;
 		text-align: left;
@@ -456,6 +470,11 @@ section h2 span {
 		margin: 0 auto 50px;
 		display: block;
 		text-align: center;
+	}
+	.col4 .menbers{
+		margin: 0 auto;
+		display: block;
+		text-align: left;
 	}
 	section h2{
 		margin: 55px auto;
