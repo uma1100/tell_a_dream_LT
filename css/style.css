@@ -480,3 +480,16 @@ section h2 span {
 		margin: 55px auto;
 	}
 }
+.slider {
+    width: 100%;
+    margin: 0 auto;
+  }
+  .slider li{
+	  text-align: center;
+  }
+  .slick-slide {
+    margin: 0 10px 0;
+  }
+  .slick-slide:not(.slick-center) {
+    opacity: 0.5;
+  }

@@ -38,4 +38,13 @@ $(function(){
 		$('#menuBtn').removeClass('close');
 	});
 
+	$(document).ready(function(){
+		$('.slider').slick({
+			infinite: true, // 無限スクロール
+			centerMode: true,
+			autoplay:true,
+			dots:true,
+		  });
+	  });
+
 });
