@@ -146,6 +146,9 @@ section h2 span {
 
 .col1{
 	margin: 0 auto;
+	/* text-align: center; */
+}
+.col1-center{
 	text-align: center;
 }
 
@@ -484,12 +487,9 @@ section h2 span {
     width: 100%;
     margin: 0 auto;
   }
-  .slider li{
+  .slider li p{
 	  text-align: center;
   }
-  .slick-slide {
-    margin: 0 10px 0;
-  }
-  .slick-slide:not(.slick-center) {
-    opacity: 0.5;
+  .text-left {
+	  text-align: left;
   }
